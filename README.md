@@ -1,5 +1,5 @@
 # My todolist
-
+Todo list in vue js , transition animation and localstorage to persist data.
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
